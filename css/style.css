@@ -67,7 +67,7 @@ header nav ul li a: hover {
 }
 
 
-.text h1 {
+.text h1 p {
 	text-align: center;
 	display: flex;
 	width: 75%;
