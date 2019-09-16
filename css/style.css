@@ -67,11 +67,21 @@ header nav ul li a: hover {
 }
 
 
-.text h1 p {
+.text nav h1 {
 	text-align: center;
 	display: flex;
 	width: 75%;
-	font-family:Open Sans Condensed;
+	font-family:chilanka;
+	font-size: 50px;
+	background-color: pink;
+	padding: 10px;
+}
+
+.text p{
+	text-align: center;
+	font-family:chilanka;
+	font-size: 40px;
+	width: 75%;
 }
 
 span nav{position: relative;
