@@ -8,6 +8,7 @@
 header {
 	position: fixed;
 	width: 100%;
+	z-index: 99;
 }
 
 a{
@@ -25,6 +26,7 @@ header nav {
 	padding-top: 15px;
 	background: pink;
 	height: 35px;
+	position: relative;
 }
 
 header nav ul li {
@@ -32,8 +34,8 @@ header nav ul li {
 }
 
 header nav ul li a: hover {
-	width: 10px,
-	height: 10px;
+	color: #009;
+	padding: 10px;
 	background: #ccc;
 }
 
