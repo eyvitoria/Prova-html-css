@@ -54,42 +54,20 @@ header nav ul li a:hover {
 	width: 25%;
 	height: 70px;
 	background-color: pink;
+	padding-bottom: 50px;
 }
 
-#images {
-	margin: 100px 100px;
+#sobre {
+	text-align: center;
+	font-family:chilanka;
+	font-size: 30px;
+	width: 75%;
+}
+
+#image{margin: 100px 100px;
+	padding-top: 100px;
 	display: flex;
 	flex-direction: row;
-}
-
-.img {
-	display: flex;
-	flex-direction: column;
-}
-
-
-#text nav h1 {
-	text-align: center;
-	display: flex;
-	width: 75%;
-	font-family:chilanka;
-	font-size: 50px;
-	background-color: pink;
-	padding: 10px;
-}
-
-#text p{
-	text-align: center;
-	font-family:chilanka;
-	font-size: 40px;
-	width: 75%;
-}
-
-span nav{position: relative;
-	text-align: center;
-	font-size: 50px ;
-	font-family: Lobster;
-	padding-top: 100px;
 }
 
 #contact nav{
@@ -105,8 +83,3 @@ span nav{position: relative;
     padding: 25px;
     padding-bottom:5px;
 }
-
-
-
-
-
