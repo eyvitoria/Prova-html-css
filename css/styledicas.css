@@ -63,11 +63,14 @@ header nav ul li a:hover {
 	display: flex;
 	flex-direction: column;
 	border-radius: 20px;
+	width: 90%;
+	height:;
 }
 
 #post {
 	text-align: center;
 	padding: 150px;
+}
 
 #contact nav{
 	padding-bottom: 30px;
