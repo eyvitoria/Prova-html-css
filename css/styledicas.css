@@ -59,6 +59,16 @@ header nav ul li a:hover {
 	background-color: pink;
 }
 
+#img {
+	display: flex;
+	flex-direction: column;
+	border-radius: 20px;
+}
+
+#post {
+	text-align: center;
+	padding: 150px;
+
 #contact nav{
 	padding-bottom: 30px;
 	background: pink;
@@ -77,3 +87,4 @@ header nav ul li a:hover {
 #contact span {
 	margin-top: 5px;
 }
+
