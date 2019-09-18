@@ -59,12 +59,12 @@ header nav ul li a:hover {
 	background-color: pink;
 }
 
-#img {
+#img{
 	display: flex;
 	flex-direction: column;
 	border-radius: 20px;
 	width: 90%;
-	height:;
+	
 }
 
 #post {
