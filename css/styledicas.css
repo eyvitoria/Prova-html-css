@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Chilanka|Lobster&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Acme|Dancing+Script|Mansalva|Pacifico|Satisfy&display=swap)
 
 * {
 	margin: 0 auto;
@@ -62,12 +63,18 @@ header nav ul li a:hover {
 #img {
 	display: flex;
 	flex-direction: column;
-	border-radius: 20px;
+	border-radius: 30px;
+	width: 90%;
+	
 }
+
 
 #post {
 	text-align: center;
 	padding: 150px;
+
+}
+
 
 #contact nav{
 	padding-bottom: 30px;
