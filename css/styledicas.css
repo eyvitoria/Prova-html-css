@@ -1,5 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Chilanka|Lobster&display=swap);
+<<<<<<< HEAD
 @import url(https://fonts.googleapis.com/css?family=Acme|Dancing+Script|Mansalva|Pacifico|Satisfy&display=swap)
+=======
+@import url(https://fonts.googleapis.com/css?family=Kalam&display=swap);
+>>>>>>> ab3bad96a4878621eb51ab97cac09c5f983e38c5
 
 * {
 	margin: 0 auto;
@@ -60,18 +64,39 @@ header nav ul li a:hover {
 	background-color: pink;
 }
 
-#img {
+#img{
 	display: flex;
 	flex-direction: column;
+<<<<<<< HEAD
 	border-radius: 30px;
 	width: 90%;
 	
+=======
+	border-radius: 20px;
+	width: 90%;
+	
+}
+
+#title{
+	font-size: 70px;
+	font-family:Kalam;
+	position: relative;
+	text-align: center;
+	padding: 50px;
+>>>>>>> ab3bad96a4878621eb51ab97cac09c5f983e38c5
 }
 
 
 #post {
 	text-align: center;
-	padding: 150px;
+	padding: 50px;
+}
+
+#post{
+	font-size: 30px;
+	width: 75%;
+	font-family:chilanka;
+}
 
 }
 
