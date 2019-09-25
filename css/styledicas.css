@@ -92,6 +92,11 @@ header nav ul li a:hover{
 	font-family:chilanka;
 }
 
+#data{
+text-align:center; 
+
+}
+
 #contact nav{
 	padding-bottom: 30px;
 	background: pink;
