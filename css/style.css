@@ -64,7 +64,7 @@ header nav ul li a:hover {
 }
 
 .img:hover{
-	transform: scale(1.2); 
+	transform: scale(1.1); 
 }
 
 .img {
@@ -117,5 +117,20 @@ span nav{
 	margin-top: 5px;
 }
 
+@media(max-width: 1000px){
+	#slide nav{
+	padding-top: 15px;
+	width: 50%;
+	height: 150px;
+	background-color: pink;
+}
+
+	#images {
+	margin: 100px 100px;
+	display: flex;
+	flex-direction: column;
+	
+}
+}
 
 
